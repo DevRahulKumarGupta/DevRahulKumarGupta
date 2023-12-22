@@ -11,7 +11,7 @@ I'm a results-driven BigCommerce developer with a passion for crafting innovativ
 - **Web Development:**
   - Frontend: React, Next.js, Vue.js, Nuxt.js
   - Backend: Node.js, Python
-  - Database: MySQL
+  - Database: MySQL, Firebase, mongodb
 
 - **Data Scraping and Automation:**
   - Proficient in data scraping techniques.
