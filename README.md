@@ -38,9 +38,9 @@
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahul60"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Kumar%20Gupta-blue" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/profile.php?id=1000364680"><img src="https://img.shields.io/badge/Facebook-Rahul%20Kumar%20Gupta-blue" alt="Facebook"></a>
-  <a href="mailto:rahulkumar@gmail.com"><img src="https://img.shields.io/badge/Email-rahulkumar%40gmail.com-red" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/rahul-kumar-gupta-a613b5260"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Kumar%20Gupta-blue" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/profile.php?id=100086322364680"><img src="https://img.shields.io/badge/Facebook-Rahul%20Kumar%20Gupta-blue" alt="Facebook"></a>
+  <a href="mailto:rahulkumar@588111gmail.com"><img src="https://img.shields.io/badge/Email-rahulkumar%40gmail.com-red" alt="Email"></a>
 </p>
 
 <!-- Collaboration -->
