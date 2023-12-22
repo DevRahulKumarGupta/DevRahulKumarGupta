@@ -1,17 +1,44 @@
-### Hi there 👋
+# Hello, I'm Rahul! 👋
 
-<!--
-**DevRahulKumarGupta/DevRahulKumarGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a results-driven BigCommerce developer with a passion for crafting innovative solutions. My expertise extends to creating powerful BigCommerce apps and working with a diverse tech stack to build robust applications.
 
-Here are some ideas to get you started:
+## Skills
+- **BigCommerce Development:**
+  - Extensive experience in developing and customizing BigCommerce stores.
+  - Proven track record of creating high-performance BigCommerce apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hello, I'm Rahul Kumar Gupta! 👋
+- **Web Development:**
+  - Frontend: React, Next.js, Vue.js, Nuxt.js
+  - Backend: Node.js, Python
+  - Database: MySQL
+
+- **Data Scraping and Automation:**
+  - Proficient in data scraping techniques.
+  - Created numerous scripts for scraping large datasets, handling millions of records.
+
+- **Salesforce:**
+  - Salesforce Admin: Configuring and maintaining Salesforce instances.
+  - Salesforce Lightning Web Components (LWC) Development: Building lightning-fast components.
+  - Extensive work on various Salesforce projects.
+
+- **Zapier Integrations:**
+  - Strong knowledge of Zapier for creating seamless automations.
+  - Designed and implemented effective integrations to streamline processes.
+
+
+## Salesforce Experience
+- **Salesforce Admin:**
+  - Configuring and maintaining Salesforce instances.
+  - Implementing security and access controls.
+
+- **Salesforce LWC Development:**
+  - Creating Lightning Web Components for enhanced user experience.
+  - Integrating Salesforce functionality into web applications.
+
+## Contact
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- Twitter: [Your Twitter Profile](link-to-twitter)
+- Email: your.email@example.com
+
+Feel free to reach out if you have any questions or if you're interested in collaboration!
