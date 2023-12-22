@@ -37,8 +37,8 @@ I'm a results-driven BigCommerce developer with a passion for crafting innovativ
   - Integrating Salesforce functionality into web applications.
 
 ## Contact
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Twitter: [Your Twitter Profile](link-to-twitter)
-- Email: your.email@example.com
+- LinkedIn: [Rahul Kumar Gupta](https://www.linkedin.com/in/rahul-kumar-gupta-a613b5260)
+- Facebook: [Rahul kumar Gupta](https://www.facebook.com/profile.php?id=100086322364680)
+- Email: rahulkumar.588111@gmail.com
 
 Feel free to reach out if you have any questions or if you're interested in collaboration!
