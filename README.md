@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Rahul.
 
-```html
+
 <pre style="font-size: 14px; white-space: pre-wrap;">
         .____                 .___ ___________                    
         |    |    ____   ____ |   |\__    ___/___________ ___.__.
