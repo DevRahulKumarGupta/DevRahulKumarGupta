@@ -1,44 +1,44 @@
-# Hello, I'm Rahul! 👋
+<!-- Header -->
+<p align="center">
+  <img src="https://img.shields.io/badge/BigCommerce-Developer-brightgreen" alt="BigCommerce Developer">
+  <img src="https://img.shields.io/badge/Web-Developer-blue" alt="Web Developer">
+  <img src="https://img.shields.io/badge/Data-Scraping-yellow" alt="Data Scraping">
+  <img src="https://img.shields.io/badge/Salesforce-Expert-orange" alt="Salesforce Expert">
+</p>
 
-## About Me
-I'm a results-driven BigCommerce developer with a passion for crafting innovative solutions. My expertise extends to creating powerful BigCommerce apps and working with a diverse tech stack to build robust applications.
+<!-- Introduction -->
+<h1 align="center">👋 Hello, I'm Rahul!</h1>
+<p align="center">Results-driven BigCommerce Developer crafting innovative solutions.</p>
 
-## Skills
-- **BigCommerce Development:**
-  - Extensive experience in developing and customizing BigCommerce stores.
-  - Proven track record of creating high-performance BigCommerce apps.
+<!-- Skills -->
+<h2 align="center">Skills</h2>
 
-- **Web Development:**
-  - Frontend: React, Next.js, Vue.js, Nuxt.js
-  - Backend: Node.js, Python
-  - Database: MySQL, Firebase, mongodb
+<p align="center">
+  <img src="https://img.shields.io/badge/BigCommerce-Development-success" alt="BigCommerce Development">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Vue.js%20%7C%20Nuxt.js-blue" alt="Frontend">
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python-success" alt="Backend">
+  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20Firebase%20%7C%20MongoDB-blue" alt="Database">
+  <img src="https://img.shields.io/badge/Data-Scraping%20%7C%20Automation-yellow" alt="Data Scraping and Automation">
+  <img src="https://img.shields.io/badge/Salesforce-Admin%20%7C%20LWC%20Development-orange" alt="Salesforce">
+  <img src="https://img.shields.io/badge/Zapier-Integrations%20%7C%20Automation-lightgrey" alt="Zapier Integrations">
+</p>
 
-- **Data Scraping and Automation:**
-  - Proficient in data scraping techniques.
-  - Created numerous scripts for scraping large datasets, handling millions of records.
+<!-- Salesforce Experience -->
+<h2 align="center">Salesforce Experience</h2>
 
-- **Salesforce:**
-  - Salesforce Admin: Configuring and maintaining Salesforce instances.
-  - Salesforce Lightning Web Components (LWC) Development: Building lightning-fast components.
-  - Extensive work on various Salesforce projects.
+<p align="center">
+  <img src="https://img.shields.io/badge/Salesforce-Admin-success" alt="Salesforce Admin">
+  <img src="https://img.shields.io/badge/LWC-Development-blue" alt="LWC Development">
+</p>
 
-- **Zapier Integrations:**
-  - Strong knowledge of Zapier for creating seamless automations.
-  - Designed and implemented effective integrations to streamline processes.
+<!-- Contact -->
+<h2 align="center">Contact</h2>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul60"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Kumar%20Gupta-blue" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/profile.php?id=1000364680"><img src="https://img.shields.io/badge/Facebook-Rahul%20Kumar%20Gupta-blue" alt="Facebook"></a>
+  <a href="mailto:rahulkumar@gmail.com"><img src="https://img.shields.io/badge/Email-rahulkumar%40gmail.com-red" alt="Email"></a>
+</p>
 
-## Salesforce Experience
-- **Salesforce Admin:**
-  - Configuring and maintaining Salesforce instances.
-  - Implementing security and access controls.
-
-- **Salesforce LWC Development:**
-  - Creating Lightning Web Components for enhanced user experience.
-  - Integrating Salesforce functionality into web applications.
-
-## Contact
-- LinkedIn: [Rahul Kumar Gupta](https://www.linkedin.com/in/rahul-kumar-gupta-a613b5260)
-- Facebook: [Rahul kumar Gupta](https://www.facebook.com/profile.php?id=100086322364680)
-- Email: rahulkumar.588111@gmail.com
-
-Feel free to reach out if you have any questions or if you're interested in collaboration!
+<!-- Collaboration -->
+<p align="center">Feel free to reach out if you have any questions or if you're interested in collaboration!</p>
