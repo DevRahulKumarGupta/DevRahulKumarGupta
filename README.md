@@ -8,7 +8,10 @@
 
 <!-- Introduction -->
 <h1 align="center">👋 Hello, I'm Rahul!</h1>
-<p align="center">Results-driven BigCommerce Developer crafting innovative solutions.</p>
+<p align="center">
+<h2>About Me</h2>
+<p>I'm a passionate BigCommerce developer who enjoys creating innovative solutions. My expertise lies in crafting powerful BigCommerce apps and working with a diverse tech stack to build robust applications.</p>
+</p>
 
 <!-- Skills -->
 <h2 align="center">Skills</h2>
