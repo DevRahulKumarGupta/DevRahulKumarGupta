@@ -31,7 +31,7 @@ Hi there! I'm **Rahul Kumar Gupta**, a passionate and solution-driven Full Stack
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" width="32">
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="32">
   <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" title="Shopify" width="32">
-  <img src="https://cdn.simpleicons.org/bigcommerce/00000" alt="BigCommerce" title="BigCommerce" width="32">
+  <img src="https://cdn.simpleicons.org/bigcommerce/CF0C2E" alt="BigCommerce" title="BigCommerce" width="32">
   <img src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="Salesforce" title="Salesforce" width="32">
   <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" title="Zapier" width="32">
   <img src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" title="Selenium" width="32">
