@@ -27,7 +27,7 @@ Hi there! I'm **Rahul Kumar Gupta**, a passionate and solution-driven Full Stack
 ### 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,shopify,bigcommerce,nodejs,ts,js,tailwind,graphql,figma,mysql,git,docker,vercel,html,css" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,Shopify,BigCommerce,salesforce,zapier,node,nodejs,ts,js,tailwind,graphql,figma,mysql,git,docker,vercel,html,css" />
 </p>
 
 ---
