@@ -1,80 +1,88 @@
 <p align="center">
-  <a href="https://github.com/rahulguptadev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F71E&random=false&width=500&lines=Senior+Web+Developer+%7C+E-commerce+Specialist;BigCommerce+%7C+Shopify+%7C+Next.js+%7C+React.js+Expert"></a>
-</p>
-
-<a href="https://komarev.com/ghpvc/?username=rahulguptadev">
-  <img align="right" src="https://komarev.com/ghpvc/?username=rahulguptadev&label=Visitors&color=1422F7&style=flat" alt="Profile visitor count" />
-</a>
-
-<!-- WakaTime Badge (Optional) -->
-<!-- [![wakatime](https://wakatime.com/badge/user/YOUR-ID.svg)](https://wakatime.com/@YOUR-ID) -->
-
-<h3 align="center">
-  <samp>&gt; Welcome to 
-    <b><a target="_blank" href="https://www.linkedin.com/in/rahulkgupta/">Rahul Kumar Gupta</a>'s GitHub</b>
-  </samp>
-</h3>
-
-<p align="center">
-  <a href="mailto:contact@yantracore.com"><img src="https://img.shields.io/badge/Email-contact@yantracore.com-informational?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rahulkgupta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/rahulgcode" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
----
-
-### 🧑‍💻 About Me
-
-- 👋 Hi, I'm **Rahul Kumar Gupta**, an experienced Full-Stack Developer and E-commerce Specialist.
-- 🏢 Currently working at **Yantra Core**.
-- 👨‍💻 Worked on major **BigCommerce** & **Shopify** projects including:  
-  `The Gel Bottle`, `That Gorilla Brand`, `Carhub`, `AngryMonk`, `GP-Direct`, `Polachecks`, `Manfredijewels`, `BC Software`, and more.
-- 💬 Ask me about **React**, **Next.js 15**, **Node.js**, **Shopify**, **BigCommerce**, **UX/UI**, and **Tailwind CSS**.
-- 🛠️ Built Shopify and BigCommerce **custom apps**, integrated **Amazon S3**, and optimized storefronts.
-- 🎓 Currently pursuing **BCA** from *National Infotech College*  
-  💡 Diploma in Computer Engineering from *Nrisingh Technical Campus*.
-- 🔭 I’m open to exciting full-time opportunities!
-
----
-
-### 🚀 Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,shopify,bigcommerce,nodejs,tailwind,vercel,ts,js,mysql,git,figma,github,docker,graphql" />
+  <a href="https://github.com/DevRahulKumarGupta">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=24F7C7&center=true&vCenter=true&width=500&lines=🚀+Senior+Web+Developer+%7C+E-commerce+Specialist;Expert+in+Shopify+%7C+BigCommerce+%7C+React+%7C+Next.js;Welcome+to+Rahul's+GitHub+Universe!">
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevRahulKumarGupta&label=Profile+views&color=0e75b6&style=flat" alt="rahulgupta" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+Hi there! I'm **Rahul Kumar Gupta**, a passionate and solution-driven Full Stack Web Developer with:
+
+- 🎯 **4+ years** of hands-on experience in **Shopify**, **BigCommerce**, and **React.js** ecosystems.
+- 🔧 Proficient in building full-scale **custom apps, themes, templates, sections, blocks**, and **e-commerce integrations**.
+- 🌐 Expertise in **REST & GraphQL APIs**, **Next.js**, **Tailwind CSS**, and **Node.js**.
+- 🚀 Focused on delivering **B2B/B2C solutions** that improve user engagement and drive revenue.
+- 📦 Skilled at **Amazon S3 integrations**, **Shopify subscription models**, and **BigCommerce widget systems**.
+- 💼 Currently working at **Yantra Core**.
+- 🎓 Pursuing **BCA** and hold a Diploma in Computer Engineering.
+
+---
+
+### 🛠️ Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,shopify,bigcommerce,nodejs,ts,js,tailwind,graphql,figma,mysql,git,docker,vercel,html,css" />
+</p>
+
+---
+
+### 🚀 Noteworthy Projects
+
+#### 🛍️ **Shopify**
+- [Polachecks](https://polachecks.com) / [Manfredijewels](https://www.manfredijewels.com) / [That Gorilla Brand](https://thatgorillabrand.com)
+- [Alkalinesuperfoods](https://alkalinesuperfoods.com.au) / [Zettsports](https://zettsports.com.au) / [Cayskin](https://cayskin.com)
+
+#### 🛒 **BigCommerce**
+- [The Gel Bottle](https://thegelbottle.com) / [BC Softwear](https://bcsoftwear.com) / [GP-Direct](https://gp-direct.com)
+- [Vaperanger](https://vaperanger.com) / [Razny](https://razny.com) / [Finearthl](https://finearthl.com)
+
+#### ⚙️ **Custom Apps**
+- **BigCommerce S3 App** – Seamless Amazon S3 digital downloads & regenerations.
+- **Shopify Review App** – Product review manager with admin controls.
+- **Order Subscription App** – Stripe-based recurring orders system.
+- **Wholesale App** – Tiered pricing and bulk ordering for B2B.
+
+#### 🌐 **React / Next.js**
+- [CRM Bays](https://crmbays.com) – Salesforce + JotForm + web content platform.
+- [Nep-Tune](https://nep-tune.web.app) – Radio channel playlist builder.
+- [Lennobyte](https://lennobyte.com) – Agency site with dynamic forms and service content.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/rahulguptadev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulguptadev&theme=radical&border=7F3FBF&background=0D1117" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevRahulKumarGupta&theme=radical&border=7F3FBF&background=0D1117" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/rahulguptadev">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulguptadev&theme=radical" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevRahulKumarGupta&theme=radical" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/rahulguptadev"><img alt="Rahul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rahulguptadev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/rahulguptadev"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rahulguptadev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DevRahulKumarGupta&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DevRahulKumarGupta&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" />
 </p>
 
 ---
 
-### 📊 Contribution Graph
+### 🔗 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulguptadev&custom_title=Rahul%20Kumar%20Gupta's%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&title_color=FFFFFF" />
+  <a href="mailto:rahulkumar.588111@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rahulkumargupta96"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100022593519399"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://github.com/DevRahulKumarGupta"><img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-> 🚀 *"Building scalable and stunning digital experiences, one commit at a time!"*
+### 💡 Fun Fact:
+> "I’m not just coding to build — I code to **connect brands with customers**, improve experiences, and create **impactful digital transformations**."
 
