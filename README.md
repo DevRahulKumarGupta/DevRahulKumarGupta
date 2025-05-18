@@ -26,10 +26,28 @@ Hi there! I'm **Rahul Kumar Gupta**, a passionate and solution-driven Full Stack
 
 ### 🛠️ Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,Shopify,BigCommerce,salesforce,zapier,node,nodejs,ts,js,tailwind,graphql,figma,mysql,git,docker,vercel,html,css" />
-</p>
-
+ <div class="flex flex-wrap gap-2">
+  <!-- Original List with Simple Icons -->
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" width="32">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="32">
+  <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" title="Shopify" width="32">
+  <img src="https://cdn.simpleicons.org/bigcommerce/00000" alt="BigCommerce" title="BigCommerce" width="32">
+  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="Salesforce" title="Salesforce" width="32">
+  <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" title="Zapier" width="32">
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" title="Selenium" width="32">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" title="Node.js" width="32">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="32">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="32">
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" width="32">
+  <img src="https://cdn.simpleicons.org/graphql/E10098" alt="GraphQL" title="GraphQL" width="32">
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" title="Figma" width="32">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL" width="32">
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" width="32">
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" width="32">
+  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" title="Vercel" width="32">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" width="32">
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" title="CSS3" width="32">
+</div>
 ---
 
 ### 🚀 Noteworthy Projects
