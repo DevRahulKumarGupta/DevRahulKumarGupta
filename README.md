@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DevRahulKumarGupta">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=24F7C7&center=true&vCenter=true&width=500&lines=🚀+Senior+Web+Developer+%7C+E-commerce+Specialist;Expert+in+Shopify+%7C+BigCommerce+%7C+React+%7C+Next.js;Welcome+to+Rahul's+GitHub+Universe!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=24F7C7&center=true&vCenter=true&width=500&lines=🚀+Senior+Web+Developer+%7C+E-commerce+Specialist;Expert+in+Shopify+%7C+BigCommerce+%7C+Next.js;Welcome+to+Rahul's+GitHub+Universe!">
   </a>
 </p>
 
