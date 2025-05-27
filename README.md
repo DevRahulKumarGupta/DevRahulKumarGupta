@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DevRahulKumarGupta">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=24F7C7&center=true&vCenter=true&width=500&lines=🚀+Senior+Web+Developer+%7C+E-commerce+Specialist;Expert+in+Shopify+%7C+BigCommerce+%7C+Next.js;Welcome+to+Rahul's+GitHub+Universe!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=🚀+Senior+Web+Developer+%7C+E-commerce+Specialist;Expert+in+Shopify+%7C+BigCommerce+%7C+Next.js;Welcome+to+Rahul's+GitHub+Universe!">
   </a>
 </p>
 
@@ -16,11 +16,11 @@ Hi there! I'm **Rahul Kumar Gupta**, a passionate and solution-driven Full Stack
 
 - 🎯 **4+ years** of hands-on experience in **Shopify**, **BigCommerce**, and **React.js** ecosystems.
 - 🔧 Proficient in building full-scale **custom apps, themes, templates, sections, blocks**, and **e-commerce integrations**.
-- 🌐 Expertise in **REST & GraphQL APIs**, **Next.js**, **Tailwind CSS**, and **Node.js**.
+- 🌐 Expertise in **REST & GraphQL APIs**, **Next.js**, **Tailwind CSS**, **Sanity** and **Node.js**.
 - 🚀 Focused on delivering **B2B/B2C solutions** that improve user engagement and drive revenue.
 - 📦 Skilled at **Amazon S3 integrations**, **Shopify subscription models**, and **BigCommerce widget systems**.
 - 💼 Currently working at **Yantra Core**.
-- 🎓 Pursuing **BCA** and hold a Diploma in Computer Engineering.
+- 🎓 Pursuing **BCA** and hold a **Diploma in Computer Engineering**.
 
 ---
 
@@ -33,6 +33,7 @@ Hi there! I'm **Rahul Kumar Gupta**, a passionate and solution-driven Full Stack
   <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" title="Shopify" width="32">
   <img src="https://cdn.simpleicons.org/bigcommerce/CF0C2E" alt="BigCommerce" title="BigCommerce" width="32">
   <img src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="Salesforce" title="Salesforce" width="32">
+  <img src="https://cdn.simpleicons.org/sanity/00A1E0" alt="Sanity" title="Sanity" width="32">
   <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" title="Zapier" width="32">
   <img src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" title="Selenium" width="32">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" title="Node.js" width="32">
