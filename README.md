@@ -49,30 +49,6 @@ Hi there! I'm **Rahul Kumar Gupta**, a passionate and solution-driven Full Stack
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" width="32">
   <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" title="CSS3" width="32">
 </div>
----
-
-### 🚀 Noteworthy Projects
-
-#### 🛍️ **Shopify**
-- [Polachecks](https://polachecks.com) / [Manfredijewels](https://www.manfredijewels.com) / [That Gorilla Brand](https://thatgorillabrand.com)
-- [Alkalinesuperfoods](https://alkalinesuperfoods.com.au) / [Zettsports](https://zettsports.com.au) / [Cayskin](https://cayskin.com)
-
-#### 🛒 **BigCommerce**
-- [The Gel Bottle](https://thegelbottle.com) / [BC Softwear](https://bcsoftwear.com) / [GP-Direct](https://gp-direct.com)
-- [Vaperanger](https://vaperanger.com) / [Razny](https://razny.com) / [Finearthl](https://finearthl.com)
-
-#### ⚙️ **Custom Apps**
-- **BigCommerce S3 App** – Seamless Amazon S3 digital downloads & regenerations.
-- **Shopify Review App** – Product review manager with admin controls.
-- **Order Subscription App** – Stripe-based recurring orders system.
-- **Wholesale App** – Tiered pricing and bulk ordering for B2B.
-
-#### 🌐 **React / Next.js**
-- [CRM Bays](https://crmbays.com) – Salesforce + JotForm + web content platform.
-- [Nep-Tune](https://nep-tune.web.app) – Radio channel playlist builder.
-- [Lennobyte](https://lennobyte.com) – Agency site with dynamic forms and service content.
-
----
 
 ### 📈 GitHub Stats
 
